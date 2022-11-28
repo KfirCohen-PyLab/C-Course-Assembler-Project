@@ -1,5 +1,6 @@
 # C-Course-Assembler-Project
 The final assignment (#14) of the C course (20465) at The Open University.  
+Recieved grade of 96.
 
 
 This project is based on the **_two-pass assembler_** model.  
